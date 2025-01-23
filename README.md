@@ -34,7 +34,7 @@ This is a **Product Feedback App** built using **ReactJS** and **Context API**. 
 
 ## 🚀 Live Demo
 
-Check out the live demo: [ProductFeedbackApp](#https://product-feedback-application-nine.vercel.app/)
+[Check out the live demo](https://product-feedback-application-nine.vercel.app/)
 
 ---
 
