@@ -1,14 +1,9 @@
-![Screenshot 1](src/assets/Screenshots/desktop-edit-feedback.png)
-![Screenshot 2](src/assets/Screenshots/desktop-feedback-detail.png)
-![Screenshot 3](src/assets/Screenshots/desktop-roadmap.png)
-![Screenshot 3](src/assets/Screenshots/desktop-suggestions.png)
-
 
 # Product Feedback App
 
 This is a **Product Feedback App** built using **ReactJS** and **Context API**. The app allows users to submit feedback on a product, view others' feedback, and upvote/downvote items. It’s designed to provide an interactive and user-friendly interface for managing feedback.
 
-## Features
+## ✨ Features
 
 - **Feedback Submission**: Users can submit feedback on a product, including a title, description,status and category.
 - **Category Selection**: Feedback is categorized (e.g., UI, UX, Features) to help organize the feedback.
@@ -25,7 +20,27 @@ This is a **Product Feedback App** built using **ReactJS** and **Context API**. 
 - **Interactive Dashboard**: Users can interact with the roadmap by upvoting, downvoting, and commenting on features in any of the roadmap sections.
 - **Multiple Views**: Uses **React Router** for navigating between different views, such as the main feedback list, feedback details, and feedback submission forms , and the roadmap dashboard.
 
-## Technologies Used
+---
+
+## 📸 Screenshots
+
+### Desktop View 
+![HomePage](src/assets/Screenshots/desktop-suggestions.png)
+![FeedbackDetails](src/assets/Screenshots/desktop-feedback-detail.png)
+![EditFeedback](src/assets/Screenshots/desktop-edit-feedback.png)
+![FeedbackRoadMap](src/assets/Screenshots/desktop-roadmap.png)
+
+---
+
+## 🚀 Live Demo
+
+Check out the live demo: [https://invoice-app-ukdd.vercel.app/](#https://invoice-app-ukdd.vercel.app/)
+
+---
+
+
+## 🛠️ Technologies Used
+
 
 - **ReactJS**: For building the user interface using components.
 - **Context API**: For state management, allowing global state to be shared across components without the need for prop drilling.
