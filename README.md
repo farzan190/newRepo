@@ -1,7 +1,7 @@
-![Screenshot 1](./app/src/assets/Screenshots/desktop-edit-feedback.png)
-![Screenshot 2](./app/src/assets/Screenshots/desktop-feedback-detail.png)
-![Screenshot 3](./app/src/assets/Screenshots/desktop-roadmap.png)
-![Screenshot 3](./app/src/assets/Screenshots/desktop-suggestions.png)
+![Screenshot 1](src/assets/Screenshots/desktop-edit-feedback.png)
+![Screenshot 2](src/assets/Screenshots/desktop-feedback-detail.png)
+![Screenshot 3](src/assets/Screenshots/desktop-roadmap.png)
+![Screenshot 3](src/assets/Screenshots/desktop-suggestions.png)
 
 
 # Product Feedback App
@@ -39,7 +39,6 @@ This is a **Product Feedback App** built using **ReactJS** and **Context API**. 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/product-feedback-app.git
-   cd app
    npm install
    npm start
 
